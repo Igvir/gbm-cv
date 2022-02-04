@@ -4,17 +4,17 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
+  email: info@gbm.net
+  github: 
   linkedin: johndoe
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Ingles
+  - idiom: Español
+  - idiom: Portugues
 
 education:
   - degree: MSc in Informatics
@@ -51,7 +51,7 @@ profile: |
 experience:
   - role: Software Engineer
     time: 2020-Present
-    company: Google
+    company: GBM
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -63,7 +63,7 @@ experience:
   
   - role: Researcher
     time: 2016-2020
-    company: Microsoft
+    company: IBM
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -91,7 +91,7 @@ projects:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
+  - title: Cool Project 2
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
