@@ -3,6 +3,8 @@ support_dark_mode: true
 fork: true
 
 # Sidebar
+sidebar:
+  logo: logo.png
 contact:
   email: info@gbm.net
   github: 
