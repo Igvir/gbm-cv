@@ -1,14 +1,14 @@
-name: John Doe
-support_dark_mode: true
+name: Igvir Ramirez V.
+support_dark_mode: false
 logo: logo.png
 fork: true
 
 # Sidebar
 contact:
-  email: info@gbm.net
-  github: 
-  linkedin: johndoe
-  phone: 
+  email: iramirez@gbm.net
+  github: igvir
+  linkedin: igvir
+  phone: +506 85720373
   gitlab: 
   twitter: 
 
