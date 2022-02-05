@@ -1,10 +1,9 @@
 name: John Doe
 support_dark_mode: true
+logo: logo.png
 fork: true
 
 # Sidebar
-sidebar:
-  logo: logo.png
 contact:
   email: info@gbm.net
   github: 

@@ -5,7 +5,10 @@ layout: default
   {% include header.html %}
   <div class="container-block">
     <div class="sidebar">
-      <img class="logo" src="{{ site.baseurl }}/assets/images/{{ sidebar.logo }}" alt="GBM Logo" />
+      {% assign logo = site.data.data.logo %}
+      {% if logo %}
+      <img class="logo" src="{{ site.baseurl }}/assets/images/{{ logo }}" alt="GBM Logo" />
+      {% endi f%}
       {% include contact.html %}
       {% include languages.html %}
       {% include education.html %}
