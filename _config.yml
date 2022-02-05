@@ -1,7 +1,7 @@
 title: GBM CV | A jekyll template
 description:  A beautiful template for your CV.
 url: http://www.igvir.com/gbm-cv/
-baseurl: '/gbm-cv'
+baseurl: 'gbm-cv'
 theme_skin: blue
 
 sass:
