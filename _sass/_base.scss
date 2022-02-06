@@ -32,4 +32,15 @@ body {
         margin-bottom: 15px;
         }        
     }
+    .footer {
+        width: 100%;
+        max-width: 100%;
+        object-fit: contain;
+        margin: 0 auto;
+        padding: 30px;
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 }

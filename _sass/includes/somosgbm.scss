@@ -5,11 +5,11 @@
     }
     .somos-item {
         margin-bottom: 20px;
-        .bold {
+        .details-bold {
             @include body-text;
             font-weight: bold;
         }
-        .text {
+        .details {
             @include body-text;
         }
     }
