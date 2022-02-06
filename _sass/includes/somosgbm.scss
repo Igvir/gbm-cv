@@ -1,0 +1,16 @@
+.somosgbm {
+    margin-bottom: 20px;
+    .title {
+        @include sub-header;
+    }
+    .somos-item {
+        margin-bottom: 20px;
+        .bold {
+            @include body-text;
+            font-weight: bold;
+        }
+        .text {
+            @include body-text;
+        }
+    }
+}
