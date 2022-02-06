@@ -11,6 +11,7 @@
         }
         .details {
             @include body-text;
+            margin-right: 5px;
         }
     }
 }
